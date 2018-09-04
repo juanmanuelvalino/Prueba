@@ -1,0 +1,11 @@
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\bin\Debug\netcoreapp2.1\Expert_SRP.deps.json
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\bin\Debug\netcoreapp2.1\Expert_SRP.runtimeconfig.json
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\bin\Debug\netcoreapp2.1\Expert_SRP.runtimeconfig.dev.json
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\bin\Debug\netcoreapp2.1\Expert_SRP.dll
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\bin\Debug\netcoreapp2.1\Expert_SRP.pdb
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\obj\Debug\netcoreapp2.1\Expert_SRP.csprojAssemblyReference.cache
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\obj\Debug\netcoreapp2.1\Expert_SRP.csproj.CoreCompileInputs.cache
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\obj\Debug\netcoreapp2.1\Expert_SRP.AssemblyInfoInputs.cache
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\obj\Debug\netcoreapp2.1\Expert_SRP.AssemblyInfo.cs
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\obj\Debug\netcoreapp2.1\Expert_SRP.dll
+d:\JuanMa\Programación II\PII_Expert_Ejercicio-master\obj\Debug\netcoreapp2.1\Expert_SRP.pdb
